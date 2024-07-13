@@ -8,7 +8,7 @@ sudo apt install python3
 ```
 2. فایل را دانلود کنید
  ```bash
-git clone https://github.com/xONEIROS/Airchain-Error-Fixer.git
+git clone https://github.com/fireroomy/Airchain-Error-Fixer.git
 cd Airchain-Error-Fixer
 ```
 
